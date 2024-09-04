@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+jPJIAretG5AiOuj3edW35kzaYF7qnLHApQpMNK3XfI=",
+  "Source": "Asp.NetCoreEmptyPractice",
+  "BasePath": "_content/Asp.NetCoreEmptyPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Asp.NetCoreEmptyPractice\\wwwroot",
+      "Source": "Asp.NetCoreEmptyPractice",
+      "ContentRoot": "C:\\Users\\Yılmaz Yiğit Gökmen\\source\\repos\\Asp.NetCoreEmptyPractice\\Asp.NetCoreEmptyPractice\\wwwroot\\",
+      "BasePath": "_content/Asp.NetCoreEmptyPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
